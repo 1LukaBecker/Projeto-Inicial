@@ -10,6 +10,6 @@ function toogleMode() {
     img.setAttribute("src", "./assets/avatar.png")
   } else {
     // set tiver sem light mode, manter a imagem normal 
-    img.setAttribute("src", "./assets/avatar-lght.png")
+    img.setAttribute("src", "./assets/avatar-light.png")
   }
 }
